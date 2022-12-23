@@ -828,3 +828,17 @@ border: none;
     width: 100%;
     background-color: rgb(207, 201, 212);
 }
+.send22{
+    background-color: blueviolet;
+    border: none;
+    color: white;
+    padding: 13px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    border-radius: 6px;
+    position: absolute;
+    right: 29px;
+    top: 1361px;
+}
